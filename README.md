@@ -25,7 +25,7 @@ blocos de horários (por exemplo: um curso de HTML pode ocorrer em dois blocos, 
 armazenar o dia e os horários de início de fim do bloco daquele dia). Para cada participante, deseja-se
 cadastrar seu nome e email.<br><br>
 <p align = center>
-<a href="https://ibb.co/Ykdts40"><img src="https://i.ibb.co/FwYBTkH/desafio2.png" alt="desafio2" border="0"></a>
+<a href="https://ibb.co/Ykdts40"><img src="https://i.ibb.co/2tMj40Z/desafio2.png" alt="desafio2" border="0"></a>
 </p>
 <br><br>
 Instância dos dados para seeding (próxima página):
@@ -33,4 +33,3 @@ Instância dos dados para seeding (próxima página):
 <p align = center>
 <a href="https://ibb.co/KNykmQn"><img src="https://i.ibb.co/wJ6XYbt/image-2024-07-09-T17-22-29-202-Z.png" alt="image-2024-07-09-T17-22-29-202-Z" border="0"></a>
 </p>
-Text to speech button
